@@ -1,0 +1,1 @@
+print("Today we have a lecture") #This is a kindly remainder
